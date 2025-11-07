@@ -1,1 +1,18 @@
-# Devbook
+# DevBook
+
+## Web Programming Project
+
+### TODO
+- Better Logging
+- Fetch Popular Github Repos
+
+### Technologies Used
+- [MongoDB](https://www.mongodb.com/)
+- [ExpressJS](https://expressjs.com/)
+- [ReactJS](https://reactjs.org/)
+- [NodeJS](https://nodejs.org/en/)
+
+### Created By
+Sahil Aringale
+
+
